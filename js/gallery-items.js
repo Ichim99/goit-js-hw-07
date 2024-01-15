@@ -1,30 +1,30 @@
 export const galleryItems = [
   {
     preview:
-      "./img./Hokkaido-Flower-preview.jpg",
+      "./img/Hokkaido-Flower-preview.jpg",
     original:
-      './img./Hokkaido-Flower-original.jpg',
+      './img/Hokkaido-Flower-original.jpg',
     description: 'Hokkaido Flower',
   },
   {
     preview:
-      '/img/Container-Haulage-Freight-preview.jpg',
+      './img/Container-Haulage-Freight-preview.jpg',
     original:
-      '/img/Container-Haulage-Freight-original.jpg',
+      './img/Container-Haulage-Freight-original.jpg',
     description: 'Container Haulage Freight',
   },
   {
     preview:
-      '/img/Aerial-Beach-View-preview.jpg',
+      './img/Aerial-Beach-View-preview.jpg',
     original:
-      '/img/Aerial-Beach-View-original.jpg',
+      './img/Aerial-Beach-View-original.jpg',
     description: 'Aerial Beach View',
   },
   {
     preview:
-      '/img/Flower-Blooms-preview.jpg',
+      './img/Flower-Blooms-preview.jpg',
     original:
-      '/img/Flower-Blooms-original.jpg',
+      './img/Flower-Blooms-original.jpg',
     description: 'Flower Blooms',
   },
   {
